@@ -1,5 +1,7 @@
 ScriptableObjectViewer(SOV)
 
+![SO](https://github.com/user-attachments/assets/f8782764-a8a7-4e7b-bbc1-00a57a1d6f24)
+
 기능
 - 다중선택/해제 기능
 - 검색기능
