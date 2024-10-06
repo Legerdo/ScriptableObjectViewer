@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "displayName": "Scriptable Object Viewer",
   "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
   "repository": {
     "type": "git",
     "url": "https://github.com/Legerdo/ScriptableObjectViewer.git",
